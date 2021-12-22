@@ -1,14 +1,19 @@
 
 <html lang="en">
 
-        <!-- Custom CSS-->
-    <link rel="stylesheet" href="css">
        
 <head> ♥ ☺ ☻ ♦ ♣
        
 </head>
  
-       
+       body{
+    background-color: #f4cfdb;
+    font-family: artifact element
+}
+
+h2{
+    color: #000000;
+}
 
 
 </html>
